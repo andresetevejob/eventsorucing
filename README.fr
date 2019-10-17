@@ -1,0 +1,9 @@
+# Retour d'Experience
+
+Ceci est une implementation from scratch de l'event sourcing
+
+## Erreur rencontrées et solutions
+
+https://stackoverflow.com/questions/29888592/errorjava-javactask-source-release-8-requires-target-release-1-8
+
+https://examples.javacodegeeks.com/enterprise-java/slf4j/solving-failed-load-class-org-slf4j-impl-staticloggerbinder-error/
